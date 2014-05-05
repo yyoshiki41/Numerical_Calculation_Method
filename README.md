@@ -1,4 +1,5 @@
-numerical_calculation_method
+#数値計算法
+<p>Numerical calculation method</p>
 ============================
 
 ##部分選択付きガウスの消去法
