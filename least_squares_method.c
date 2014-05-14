@@ -5,8 +5,10 @@
 int main()
 {
     int i;
-    double a0, a1, p, q;
+    double a0, a1;
     double A00, A01, A02, A11, A12;
+
+    // y = a0 + a1 * x
     double x[N] = {1.0, 2.0, 3.0, 4.0, 5.0},
            y[N] = {10.6, 15.5, 19.9, 23.8, 33.2};
 
