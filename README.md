@@ -14,13 +14,13 @@ gauss_elimination_method.c
 least_squares_method.c
 </blockquote>
 
-##ルンゲクッタ法
+##ルンゲ・クッタ法
 <blockquote>
-<p>4次のルンゲクッタ法で解を(解軌跡)を数値的に求める。</p>
+<p>4次のルンゲ・クッタ法で解を(解軌跡)を数値的に求める。</p>
 <p>Runge-Kutta_method.c</p>
 <hr>
-高階の常微分方程式
+【高階の常微分方程式】
 <p>x'' - x' -2 * x = 8, x(0) = 0, x'(0) = 0</p>
-<p>x' = y　とおいて、変数変換する。</p>
+<p>x = x1, x1' = x2　とおいて、変数変換する。</p>
 </hr>
 </blockquote>
