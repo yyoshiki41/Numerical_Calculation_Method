@@ -24,3 +24,11 @@ least_squares_method.c
 <p>x = x1, x1' = x2　とおいて、変数変換する。</p>
 </hr>
 </blockquote>
+
+##ニュートン法
+<p>ニュートン法を用いて解を求める。</p>
+Newton-Raphson_method.c
+
+##偏微分方程式
+<p>ニュートン法を用いて解を求める。</p>
+wave_equation.c
