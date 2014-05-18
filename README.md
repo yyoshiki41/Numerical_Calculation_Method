@@ -30,5 +30,5 @@ least_squares_method.c
 Newton-Raphson_method.c
 
 ##偏微分方程式
-<p>ニュートン法を用いて解を求める。</p>
+<p>弦の振動を波動方程式と考えて解く。</p>
 wave_equation.c
