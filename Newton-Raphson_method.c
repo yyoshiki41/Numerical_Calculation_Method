@@ -24,7 +24,7 @@ int main()
         j22 = 6 * x2 * x2;
 
         dx1 = (j22 * f1 - j12 * f2) / (j11 * j22 - j12 * j21);
-        dx2 = (-j21 * f1 - j11 * f2) / (j11 * j22 - j12 * j21);
+        dx2 = (-j21 * f1 + j11 * f2) / (j11 * j22 - j12 * j21);
 
         norm = sqrt(dx1 * dx1 + dx2 * dx2);
         if(norm < EPS) break;
